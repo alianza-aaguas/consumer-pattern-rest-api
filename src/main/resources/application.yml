@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: consumer-pattern-rest-api
+
+logging:
+  level:
+    com.example.consumer: DEBUG
